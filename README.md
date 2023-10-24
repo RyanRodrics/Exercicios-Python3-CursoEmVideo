@@ -1,7 +1,7 @@
 # Exercicios Python3 CursoEmVideo
  115 Exercícios de Python do curso online de Python3 do professor Gustavo Guanabara, disponivel gratuitamente em cursoemvideo.com.br ou em youtube.com/cursoemvideo. Fiz todos os exercícios propostos nesse curso de Python, em  cada um também deixei comentado o enunciado. 
  Os Assuntos deles estão divididos em 3 Mundos: 
- # Mundo 1 \n
+ # Mundo 1 
   -> Aula 01 a Aula05: Introdução e Primeiros Comandos do Python - Ex001 e Ex002 
   -> Aula 06: Tipos Primitivos e Saída de Dados - Ex003 e Ex004 
   -> Aula 07: Operadores Aritméticos - Ex005 a Ex015 
@@ -9,7 +9,7 @@
   -> Aula 09: Manipulando Strings - Ex022 a Ex027 
   -> Aula 10: Condições (Parte 1) - Ex028 a ex035 
   -> Aula 11: Cores no Terminal - Extra 
- # Mundo 2 \n
+ # Mundo 2 
   -> Aula 12: Condições Aninhadas - Ex036 a Ex045 
   -> Aula 13: Estrutura de Repetição for - Ex046 a Ex056 
   -> Aula 14: Estrutura de Repetição while - Ex057 a Ex065
