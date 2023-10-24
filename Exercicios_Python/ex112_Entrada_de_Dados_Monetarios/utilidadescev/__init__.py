@@ -1,0 +1,1 @@
+from ex112_Entrada_de_Dados_Monetarios.utilidadescev import moeda, dado
