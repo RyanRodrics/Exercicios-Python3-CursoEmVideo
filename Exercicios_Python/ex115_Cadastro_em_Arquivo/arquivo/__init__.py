@@ -1,4 +1,4 @@
-from ex115_Cadastro_em_Arquivo.lib.interface import *
+from ex115_Cadastro_em_Arquivo.interface import *
 
 
 def arquivoExiste(arqNome):
