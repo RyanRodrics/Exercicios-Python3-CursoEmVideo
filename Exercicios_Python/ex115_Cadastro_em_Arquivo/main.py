@@ -1,8 +1,8 @@
 # Ex115: Crie um pequeno sistema modularizado que permita cadastrar pessoas pelo nome e idade em um arquivo de
 # texto simples. O sistema só vai ter duas opções: cadastrar uma nova pessoa e listar todas as pessoas cadastradas.
 
-from lib.interface import *
-from lib.arquivo import *
+from interface import *
+from arquivo import *
 from time import sleep
 
 arq = 'pessoas.txt'
